@@ -179,23 +179,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\h19carmo\\.nuget\\packages\\": {},
+    "C:\\Users\\h17mikmi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\dustudent\\home\\h19carmo\\Documents\\GitHub\\Projekt-C-\\ConverterService\\ConverterService.csproj",
+      "projectUniqueName": "H:\\Documents\\GitHub\\Projekt-C-\\ConverterService\\ConverterService.csproj",
       "projectName": "ConverterService",
-      "projectPath": "\\\\dustudent\\home\\h19carmo\\Documents\\GitHub\\Projekt-C-\\ConverterService\\ConverterService.csproj",
-      "packagesPath": "C:\\Users\\h19carmo\\.nuget\\packages\\",
-      "outputPath": "\\\\dustudent\\home\\h19carmo\\Documents\\GitHub\\Projekt-C-\\ConverterService\\obj\\",
+      "projectPath": "H:\\Documents\\GitHub\\Projekt-C-\\ConverterService\\ConverterService.csproj",
+      "packagesPath": "C:\\Users\\h17mikmi\\.nuget\\packages\\",
+      "outputPath": "H:\\Documents\\GitHub\\Projekt-C-\\ConverterService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\h19carmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\h17mikmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
