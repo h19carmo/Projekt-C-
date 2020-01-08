@@ -28,12 +28,12 @@ namespace Service
 
         public float CalculateDiameterFromArea(float area)
         {
-            return Diameter * 2 ;
+            return area * 2 ;
         }
 
         public float CalculateRadiusFromArea(float area)
         {
-            return area / pi;
+            return area / (float)Math.PI;
         }
         public float CalculateTravelTime(float speed, float distance)
         {
