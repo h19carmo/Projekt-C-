@@ -1,0 +1,14 @@
+H:\Documents\GitHub\Projekt-C-\ConverterProgram\bin\Debug\netcoreapp2.2\ConverterProgram.deps.json
+H:\Documents\GitHub\Projekt-C-\ConverterProgram\bin\Debug\netcoreapp2.2\ConverterProgram.runtimeconfig.json
+H:\Documents\GitHub\Projekt-C-\ConverterProgram\bin\Debug\netcoreapp2.2\ConverterProgram.runtimeconfig.dev.json
+H:\Documents\GitHub\Projekt-C-\ConverterProgram\bin\Debug\netcoreapp2.2\ConverterProgram.dll
+H:\Documents\GitHub\Projekt-C-\ConverterProgram\bin\Debug\netcoreapp2.2\ConverterProgram.pdb
+H:\Documents\GitHub\Projekt-C-\ConverterProgram\bin\Debug\netcoreapp2.2\ConverterService.dll
+H:\Documents\GitHub\Projekt-C-\ConverterProgram\bin\Debug\netcoreapp2.2\ConverterService.pdb
+H:\Documents\GitHub\Projekt-C-\ConverterProgram\obj\Debug\netcoreapp2.2\ConverterProgram.csprojAssemblyReference.cache
+H:\Documents\GitHub\Projekt-C-\ConverterProgram\obj\Debug\netcoreapp2.2\ConverterProgram.csproj.CoreCompileInputs.cache
+H:\Documents\GitHub\Projekt-C-\ConverterProgram\obj\Debug\netcoreapp2.2\ConverterProgram.AssemblyInfoInputs.cache
+H:\Documents\GitHub\Projekt-C-\ConverterProgram\obj\Debug\netcoreapp2.2\ConverterProgram.AssemblyInfo.cs
+H:\Documents\GitHub\Projekt-C-\ConverterProgram\obj\Debug\netcoreapp2.2\ConverterProgram.csproj.CopyComplete
+H:\Documents\GitHub\Projekt-C-\ConverterProgram\obj\Debug\netcoreapp2.2\ConverterProgram.dll
+H:\Documents\GitHub\Projekt-C-\ConverterProgram\obj\Debug\netcoreapp2.2\ConverterProgram.pdb

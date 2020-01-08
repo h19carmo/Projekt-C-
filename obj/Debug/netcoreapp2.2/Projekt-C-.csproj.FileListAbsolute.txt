@@ -1,0 +1,4 @@
+H:\Documents\GitHub\Projekt-C-\obj\Debug\netcoreapp2.2\Projekt-C-.csprojAssemblyReference.cache
+H:\Documents\GitHub\Projekt-C-\obj\Debug\netcoreapp2.2\Projekt-C-.csproj.CoreCompileInputs.cache
+H:\Documents\GitHub\Projekt-C-\obj\Debug\netcoreapp2.2\Projekt-C-.AssemblyInfoInputs.cache
+H:\Documents\GitHub\Projekt-C-\obj\Debug\netcoreapp2.2\Projekt-C-.AssemblyInfo.cs
