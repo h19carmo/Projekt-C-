@@ -28,57 +28,57 @@ namespace Service
 
         public float CalculateDiameterFromArea(float area)
         {
-            return ;
+            return Diameter * 2 ;
         }
 
         public float CalculateRadiusFromArea(float area)
         {
-            throw new NotImplementedException();
+            return area / pi;
         }
         public float CalculateTravelTime(float speed, float distance)
         {
-            throw new NotImplementedException();
+            return speed * distance;
         }
         public float CalculateTraveledDistance(float speed, float time) {
-            throw new NotFiniteNumberException();
+            return speed * time;
         }
         public float CalculateSpeed(float time, float distance) {
-            throw new NotFiniteNumberException();
+            return time * distance;
         }
 
         public float CalculateVoltage(float res, float amp)
         {
-            throw new NotImplementedException();
+            return amp * res;
         }
         
         public float ConvertCelciusToFahrenheit(float celcius)
         {
-            throw new NotImplementedException();
+            return celcius * 9/5 + 32;
         }
 
         public float ConvertFahrenheitToCelcius(float fahrenheit)
         {
-            throw new NotImplementedException();
+            return (fahrenheit - 32) * 5/9;
         }
 
         public float ConvertFromGallonToLiter(float gallon)
         {
-            throw new NotImplementedException();
+            return gallon * 3.78541178f;
         }
 
         public float ConvertFromLiterToGallon(float liter)
         {
-            throw new NotImplementedException();
+            return liter * 0.264172052f;
         }
 
         public float ConvertFromHoursToMinutes(float hours)
         {
-            throw new NotImplementedException();
+            return hours * 60;
         }
 
         public float ConvertFromMinutesToHours(float minutes)
         {
-            throw new NotImplementedException();
+            return minutes / 60;
         }
     }
 }
