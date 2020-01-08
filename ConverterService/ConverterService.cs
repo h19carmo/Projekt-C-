@@ -18,12 +18,12 @@ namespace Service
 
         public float CalculateAmps(float voltage, float resistance)
         {
-            throw new NotImplementedException();
+             return voltage / resistance;
         }
 
         public float CalculateResistance(float voltage, float amps)
         {
-            throw new NotImplementedException();
+            return voltage / amps;
         }
 
         public float CalculateDiameterFromArea(float area)
