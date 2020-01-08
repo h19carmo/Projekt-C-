@@ -58,27 +58,27 @@ namespace Service
 
         public float ConvertFahrenheitToCelcius(float fahrenheit)
         {
-            throw new NotImplementedException();
+            return (fahrenheit - 32) * 5/9;
         }
 
         public float ConvertFromGallonToLiter(float gallon)
         {
-            throw new NotImplementedException();
+            return gallon * 3.78541178f;
         }
 
         public float ConvertFromLiterToGallon(float liter)
         {
-            throw new NotImplementedException();
+            return liter * 0.264172052f;
         }
 
         public float ConvertFromHoursToMinutes(float hours)
         {
-            throw new NotImplementedException();
+            return hours * 60;
         }
 
         public float ConvertFromMinutesToHours(float minutes)
         {
-            throw new NotImplementedException();
+            return minutes / 60;
         }
     }
 }
