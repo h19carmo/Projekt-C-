@@ -28,7 +28,7 @@ namespace Service
 
         public float CalculateDiameterFromArea(float area)
         {
-            return area * 2 ;
+            return (float)Math.Sqrt(area * (float)Math.PI) / (float)Math.PI;
         }
 
         public float CalculateRadiusFromArea(float area)
