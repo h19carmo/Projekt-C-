@@ -28,32 +28,32 @@ namespace Service
 
         public float CalculateDiameterFromArea(float area)
         {
-            return ;
+            return Diameter * 2 ;
         }
 
         public float CalculateRadiusFromArea(float area)
         {
-            throw new NotImplementedException();
+            return area / pi;
         }
         public float CalculateTravelTime(float speed, float distance)
         {
-            throw new NotImplementedException();
+            return speed * distance;
         }
         public float CalculateTraveledDistance(float speed, float time) {
-            throw new NotFiniteNumberException();
+            return speed * time;
         }
         public float CalculateSpeed(float time, float distance) {
-            throw new NotFiniteNumberException();
+            return time * distance;
         }
 
         public float CalculateVoltage(float res, float amp)
         {
-            return res ;
+            return amp * res;
         }
         
         public float ConvertCelciusToFahrenheit(float celcius)
         {
-            throw new NotImplementedException();
+            return celcius * 9/5 + 32;
         }
 
         public float ConvertFahrenheitToCelcius(float fahrenheit)
