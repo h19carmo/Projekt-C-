@@ -28,7 +28,7 @@ namespace Service
 
         public float CalculateDiameterFromArea(float area)
         {
-            throw new NotImplementedException();
+            return ;
         }
 
         public float CalculateRadiusFromArea(float area)
