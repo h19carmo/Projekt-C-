@@ -37,13 +37,13 @@ namespace Service
         }
         public float CalculateTravelTime(float speed, float distance)
         {
-            return speed * distance;
+            return distance / speed;
         }
         public float CalculateTraveledDistance(float speed, float time) {
             return speed * time;
         }
         public float CalculateSpeed(float time, float distance) {
-            return time * distance;
+            return distance / time;
         }
 
         public float CalculateVoltage(float res, float amp)
