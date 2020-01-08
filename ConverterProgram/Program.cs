@@ -78,7 +78,7 @@ namespace ConverterProgram
                     break;
                     case 0: return ;
 
-// JHAGJGJAKJJH 
+
                 }
             }
         }
