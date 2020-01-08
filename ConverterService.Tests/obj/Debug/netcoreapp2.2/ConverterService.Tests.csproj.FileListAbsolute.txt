@@ -1,0 +1,17 @@
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService.Tests\bin\Debug\netcoreapp2.2\ConverterService.Tests.deps.json
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService.Tests\bin\Debug\netcoreapp2.2\ConverterService.Tests.runtimeconfig.json
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService.Tests\bin\Debug\netcoreapp2.2\ConverterService.Tests.runtimeconfig.dev.json
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService.Tests\bin\Debug\netcoreapp2.2\ConverterService.Tests.dll
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService.Tests\bin\Debug\netcoreapp2.2\ConverterService.Tests.pdb
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService.Tests\bin\Debug\netcoreapp2.2\ConverterService.dll
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService.Tests\bin\Debug\netcoreapp2.2\ConverterService.pdb
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService.Tests\obj\Debug\netcoreapp2.2\ConverterService.Tests.csprojAssemblyReference.cache
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService.Tests\obj\Debug\netcoreapp2.2\ConverterService.Tests.csproj.CoreCompileInputs.cache
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService.Tests\obj\Debug\netcoreapp2.2\ConverterService.Tests.AssemblyInfoInputs.cache
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService.Tests\obj\Debug\netcoreapp2.2\ConverterService.Tests.AssemblyInfo.cs
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService.Tests\obj\Debug\netcoreapp2.2\ConverterService.Tests.csproj.CopyComplete
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService.Tests\obj\Debug\netcoreapp2.2\ConverterService.Tests.dll
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService.Tests\obj\Debug\netcoreapp2.2\ConverterService.Tests.pdb

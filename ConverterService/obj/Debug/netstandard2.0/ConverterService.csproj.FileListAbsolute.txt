@@ -1,0 +1,9 @@
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService\bin\Debug\netstandard2.0\ConverterService.deps.json
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService\bin\Debug\netstandard2.0\ConverterService.dll
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService\bin\Debug\netstandard2.0\ConverterService.pdb
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService\obj\Debug\netstandard2.0\ConverterService.csprojAssemblyReference.cache
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService\obj\Debug\netstandard2.0\ConverterService.csproj.CoreCompileInputs.cache
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService\obj\Debug\netstandard2.0\ConverterService.AssemblyInfoInputs.cache
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService\obj\Debug\netstandard2.0\ConverterService.AssemblyInfo.cs
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService\obj\Debug\netstandard2.0\ConverterService.dll
+\\dustudent\home\h19carmo\Documents\GitHub\Projekt-C-\ConverterService\obj\Debug\netstandard2.0\ConverterService.pdb
