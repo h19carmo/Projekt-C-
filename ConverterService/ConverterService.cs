@@ -48,7 +48,7 @@ namespace Service
 
         public float CalculateVoltage(float res, float amp)
         {
-            throw new NotImplementedException();
+            return res ;
         }
         
         public float ConvertCelciusToFahrenheit(float celcius)
