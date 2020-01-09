@@ -27,7 +27,7 @@ namespace Service
 
         public float CalculateDiameterFromArea(float area)
         {
-            return  CalculateRadiusFromArea(area)*2;
+            return CalculateRadiusFromArea(area) * 2;
         }
 
         public float CalculateRadiusFromArea(float area)
@@ -38,11 +38,13 @@ namespace Service
         {
             return distance / speed;
         }
-        public float CalculateTraveledDistance(float speed, float time) {
+        public float CalculateTraveledDistance(float speed, float time)
+        {
             return speed * time;
         }
-        
-        public float CalculateSpeed(float time, float distance) {
+
+        public float CalculateSpeed(float time, float distance)
+        {
             return distance / time;
         }
 
@@ -50,15 +52,15 @@ namespace Service
         {
             return amp * res;
         }
-        
+
         public float ConvertCelciusToFahrenheit(float celcius)
         {
-            return celcius * 9/5 + 32;
+            return celcius * 9 / 5 + 32;
         }
 
         public float ConvertFahrenheitToCelcius(float fahrenheit)
         {
-            return (fahrenheit - 32) * 5/9;
+            return (fahrenheit - 32) * 5 / 9;
         }
 
         public float ConvertFromGallonToLiter(float gallon)
@@ -81,6 +83,6 @@ namespace Service
             return minutes / 60;
         }
 
-        
+
     }
 }
