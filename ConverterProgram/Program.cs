@@ -65,24 +65,38 @@ namespace ConverterProgram
                     break;
                     case 4: 
                     Console.WriteLine("Du valde {0}",val);
+                    result = converter.CalculateRadiusFromArea(ReadUserData("Ange area"));
+                    Console.WriteLine("Radius blir {0}", result);
                     break;
                     case 5: 
                     Console.WriteLine("Du valde {0}",val);
+                    result = converter.CalculateTravelTime(ReadUserData("Ange avståndet"), ReadUserData("Ange Hastigheten"));
+                    Console.WriteLine("Resetiden blir {0}", result);
                     break;
                     case 6: 
                     Console.WriteLine("Du valde {0}",val);
+                    result = converter.CalculateTraveledDistance(ReadUserData("Ange hastigheten"), ReadUserData("Ange tiden"));
+                    Console.WriteLine("Avståndet blir {0}", result);
                     break;
                     case 7: 
                     Console.WriteLine("Du valde {0}",val);
+                    result = converter.CalculateSpeed(ReadUserData("Ange tiden"), ReadUserData("Ange avståndet"));
+                    Console.WriteLine("Hastigheten blir {0}", result);
                     break;
                     case 8: 
                     Console.WriteLine("Du valde {0}",val);
+                    result = converter.CalculateVoltage(ReadUserData("Ange ampere"), ReadUserData("Ange resistans"));
+                    Console.WriteLine("Spänningen blir {0}", result);
                     break;
                     case 9: 
                     Console.WriteLine("Du valde {0}",val);
+                    result = converter.ConvertCelciusToFahrenheit(ReadUserData("Ange Celsius"));
+                    Console.WriteLine("Fahrenheit blir {0}", result);
                     break;
                     case 10: 
                     Console.WriteLine("Du valde {0}",val);
+                    result = converter.ConvertFahrenheitToCelcius(ReadUserData("Ange Fahrenheit"));
+                    Console.WriteLine("Fahrenheit blir {0}", result);
                     break;
                     case 11: 
                     Console.WriteLine("Du valde {0}",val);
