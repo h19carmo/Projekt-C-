@@ -86,15 +86,23 @@ namespace ConverterProgram
                     break;
                     case 11: 
                     Console.WriteLine("Du valde {0}",val);
+                    result = converter.ConvertFromGallonToLiter(ReadUserData("Ange mängden gallon du vill konvertera till liter"));
+                    Console.WriteLine("Angiven gallon är {0} liter", result);
                     break;
                     case 12: 
                     Console.WriteLine("{0}",val);
+                    result = converter.ConvertFromLiterToGallon(ReadUserData("Ange mängden liter du vill konvertera till gallon"));
+                    Console.WriteLine("Angivna liter är {0} gallon", result);
                     break;
                     case 13: 
                     Console.WriteLine("{0}",val);
+                    result = converter.ConvertFromHoursToMinutes(ReadUserData("Ange antalet timmar du vill konvertera till minuter"));
+                    Console.WriteLine("Antalet minuter blir {0}", result);
                     break;
                     case 14: 
                     Console.WriteLine("{0}",val);
+                    result = converter.ConvertFromMinutesToHours(ReadUserData("Ange antalet minuter du vill konvertera till timmar"));
+                    Console.WriteLine("Antalet timmar är {0}", result);
                     break;
                     case 0: return ;
 
