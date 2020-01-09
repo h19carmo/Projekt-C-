@@ -20,7 +20,6 @@ namespace Service
         {
              return voltage / resistance;
         }
-
         public float CalculateResistance(float voltage, float amps)
         {
             return voltage / amps;
