@@ -42,6 +42,7 @@ namespace Service
         public float CalculateTraveledDistance(float speed, float time) {
             return speed * time;
         }
+        //lol
         public float CalculateSpeed(float time, float distance) {
             return distance / time;
         }

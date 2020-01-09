@@ -702,23 +702,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\h17mikmi\\.nuget\\packages\\": {},
+    "C:\\Users\\h19carmo\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Documents\\GitHub\\Projekt-C-\\ConverterProgram\\ConverterProgram.csproj",
+      "projectUniqueName": "\\\\dustudent\\home\\h19carmo\\Documents\\GitHub\\Projekt-C-\\Projekt-C-\\ConverterProgram\\ConverterProgram.csproj",
       "projectName": "ConverterProgram",
-      "projectPath": "H:\\Documents\\GitHub\\Projekt-C-\\ConverterProgram\\ConverterProgram.csproj",
-      "packagesPath": "C:\\Users\\h17mikmi\\.nuget\\packages\\",
-      "outputPath": "H:\\Documents\\GitHub\\Projekt-C-\\ConverterProgram\\obj\\",
+      "projectPath": "\\\\dustudent\\home\\h19carmo\\Documents\\GitHub\\Projekt-C-\\Projekt-C-\\ConverterProgram\\ConverterProgram.csproj",
+      "packagesPath": "C:\\Users\\h19carmo\\.nuget\\packages\\",
+      "outputPath": "\\\\dustudent\\home\\h19carmo\\Documents\\GitHub\\Projekt-C-\\Projekt-C-\\ConverterProgram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\h17mikmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\h19carmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -731,8 +731,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "H:\\Documents\\GitHub\\Projekt-C-\\ConverterService\\ConverterService.csproj": {
-              "projectPath": "H:\\Documents\\GitHub\\Projekt-C-\\ConverterService\\ConverterService.csproj"
+            "\\\\dustudent\\home\\h19carmo\\Documents\\GitHub\\Projekt-C-\\Projekt-C-\\ConverterService\\ConverterService.csproj": {
+              "projectPath": "\\\\dustudent\\home\\h19carmo\\Documents\\GitHub\\Projekt-C-\\Projekt-C-\\ConverterService\\ConverterService.csproj"
             }
           }
         }
