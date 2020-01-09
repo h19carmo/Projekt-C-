@@ -35,10 +35,11 @@ namespace ConverterProgram
             
             ConverterService converter = new ConverterService();
             //Start point for the program.
-            Console.WriteLine(str);
+
             int val;
             float result;
             while(true){
+                Console.WriteLine(str);
                 while(!Int32.TryParse(Console.ReadLine(), out val)){
                     Console.WriteLine("Felaktigt val {0}\n" + str, val);
                 }
@@ -114,6 +115,9 @@ namespace ConverterProgram
                     Console.WriteLine("Antalet timmar är {0}", result);
                     break;
                     case 0: return ;
+                    default: 
+                        Console.WriteLine("Feaktigt val försök igen!");
+                    break;
 
 
                 }
