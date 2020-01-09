@@ -81,6 +81,6 @@ namespace Service
             return minutes / 60;
         }
 
-        //lol
+        
     }
 }
