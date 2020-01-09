@@ -34,7 +34,6 @@ namespace ConverterProgram
             "0. Avsluta"; 
             
             ConverterService converter = new ConverterService();
-            //Start point for the program.
 
             int val;
             float result;
@@ -53,7 +52,7 @@ namespace ConverterProgram
                     case 2: 
                     Console.WriteLine("Du valde {0}",val);
                     result = converter.CalculateResistance(ReadUserData ("Ange Spänningen"), ReadUserData("Ange ampere"));
-                    Console.WriteLine("Resistansen blir {0}", result);
+                    Console.WriteLine("Resistansen blir {0} Ohm", result);
                     Console.ReadLine();
                     break;
                     case 3: 
